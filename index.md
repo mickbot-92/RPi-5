@@ -12,7 +12,9 @@ Bonjour ! Voici donc le sommaire regroupant les services mis en place qui compos
   * [Blockchain ''monerod'' & P2Pool](monerod-p2pool)
 * Initialisation d'un [bot Discord](discord-py) en Python
 * [Serveur Minecraft + plugin Python](minecraft)
+
 Vous remarquerez tout au long des pages que je fais souvent référence aux sites qui m'ont permis d'avancer dans la création du serveur tel qu'il est.
+
 # Matériel
 Voici ce que j'utilise comme matériel :
   * Raspberry Pi 5 doté de 8GB de RAM
@@ -23,5 +25,6 @@ Voici ce que j'utilise comme matériel :
   * Active cooling officiel
   * (Câble Ethernet)
   * Pour ceux qui ont Windows : Clé USB Ventoy (voir instructions d'installation) avec l'ISO LMDE
+
 # À Propos / FAQ
 Q. Pourquoi avoir opté pour un Raspberry Pi ?
